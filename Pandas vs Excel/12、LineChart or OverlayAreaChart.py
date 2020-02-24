@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 '''
-饼图
+折线图、叠加面积图
 '''
 
 import pandas as pd
