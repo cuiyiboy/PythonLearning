@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
+
+'''
+叠加柱状图
+'''
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
