@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 '''
-分裂
+统计计算
 '''
 
 import pandas as pd
